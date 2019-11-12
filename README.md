@@ -38,7 +38,7 @@ terraform init
 terraform apply
 ```
 
-- This step will prompt <<Do you want to perform these actions?>>
+- This step will prompt `<<`Do you want to perform these actions?`>>`
   the answer should be **yes**
 
 ### Task - check the outputs result
