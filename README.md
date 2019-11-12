@@ -6,7 +6,9 @@ This repo has as dependencies a command line or shell git and terraform.You can 
 
 ## How can I use this repo`?`
 
-### Task - clone repo terraform-outputs
+_Note_: my login on GitHub is capitalized and that is the reason why the "Orpere" appears like this.
+
+### 1 - clone repo terraform-outputs
 
 - open your shell or command line and go to the directory where you pretend to add the repo
 
@@ -15,16 +17,16 @@ cd <directory where pretend to add the repo>
 ```
 
 ```git
-git clone git@github.com:Orpere/terraform-outputs.git
+git clone git@github.com:orpere/terraform-outputs.git
 ```
 
-### Task - move to your repo folder
+### 2 - move to your repo folder
 
 ```bash
 cd terraform-outputs
 ```
 
-### Task - terraform init
+### 3 - terraform init
 
 - this will retrieve all dependencies for terraform files
 
@@ -32,16 +34,16 @@ cd terraform-outputs
 terraform init
 ```
 
-### Task - run terraform apply
+### 4 - run terraform apply
 
 ```terraform
 terraform apply
 ```
 
 - This step will prompt `<<`Do you want to perform these actions?`>>`
-  the answer should be **yes**
+  - the answer should be **yes**
 
-### Task - check the outputs result
+### 5 - check the outputs result
 
 - In this case the results should be as bellow
 
@@ -60,7 +62,7 @@ id = [
 ]
 ```
 
-### Task - Terraform destroy
+### 6 - Terraform destroy
 
 ```terraform
 terraform destroy
