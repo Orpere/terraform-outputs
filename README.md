@@ -1,12 +1,10 @@
 # terraform-outputs -> repo that you can use to see how terraform outputs work
 
-## how can I use this repository`?`
+## How can I use this repository`?`
 
 This repo has as dependencies a command line or shell git and terraform.You can find the install instructions bellow on [EXTRAS](#extras) section.
 
 ## How can I use this repo`?`
-
-_Note_: my login on GitHub is capitalized and that is the reason why the "Orpere" appears like this.
 
 ### 1 - clone repo terraform-outputs
 
@@ -17,7 +15,7 @@ cd <directory where pretend to add the repo>
 ```
 
 ```git
-git clone git@github.com:orpere/terraform-outputs.git
+git clone git@github.com:orlando.pereira/terraform-outputs.git
 ```
 
 ### 2 - move to your repo folder
