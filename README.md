@@ -1,7 +1,6 @@
 # terraform-outputs -> repo that you can use to see how terraform outputs work
 
-
-## how can I use this repository?
+## how can I use this repository`?`
 
 This repo has as dependencies a command line or shell git and terraform.You can find the install instructions bellow on [EXTRAS](#extras) section.
 
@@ -40,15 +39,13 @@ terraform apply
 ```
 
 - This step will prompt <<Do you want to perform these actions?>>
-  the answer should be **yes** 
-
- 
+  the answer should be **yes**
 
 ### Task - check the outputs result
 
 - In this case the results should be as bellow
 
-```terraform 
+```terraform
 Apply complete! Resources: 2 added, 0 changed, 0 destroyed.
 
 Outputs:
