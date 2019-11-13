@@ -15,7 +15,7 @@ cd <directory where pretend to add the repo>
 ```
 
 ```git
-git clone git@github.com:orlando.pereira/terraform-outputs.git
+git clone git@github.com:orlando-pereira/terraform-outputs.git
 ```
 
 ### 2 - move to your repo folder
