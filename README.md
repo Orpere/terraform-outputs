@@ -46,18 +46,11 @@ terraform apply
 - In this case the results should be as bellow
 
 ```terraform
-Apply complete! Resources: 2 added, 0 changed, 0 destroyed.
+Apply complete! Resources: 0 added, 0 changed, 0 destroyed.
 
 Outputs:
 
-id = [
-  {
-    "id" = "4811559512174270872"
-  },
-  {
-    "id" = "7244250628959297751"
-  },
-]
+test_result = hello world
 ```
 
 ### 6 - terraform destroy
